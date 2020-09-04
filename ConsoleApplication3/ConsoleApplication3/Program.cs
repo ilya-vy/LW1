@@ -18,6 +18,7 @@ namespace ConsoleApplication3
                 L = L / 10;
             }
             Console.WriteLine(L);
+            Console.WriteLine(z);
             Console.ReadKey();
         }
     }
