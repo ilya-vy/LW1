@@ -1,0 +1,6 @@
+D:\фОАиС\My projects\ofjwijgporje\ofjwijgporje\bin\Debug\ofjwijgporje.exe.config
+D:\фОАиС\My projects\ofjwijgporje\ofjwijgporje\bin\Debug\ofjwijgporje.exe
+D:\фОАиС\My projects\ofjwijgporje\ofjwijgporje\bin\Debug\ofjwijgporje.pdb
+D:\фОАиС\My projects\ofjwijgporje\ofjwijgporje\obj\Debug\ofjwijgporje.csprojResolveAssemblyReference.cache
+D:\фОАиС\My projects\ofjwijgporje\ofjwijgporje\obj\Debug\ofjwijgporje.exe
+D:\фОАиС\My projects\ofjwijgporje\ofjwijgporje\obj\Debug\ofjwijgporje.pdb
