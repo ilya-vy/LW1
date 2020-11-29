@@ -15,6 +15,7 @@ namespace task1
         public Form1()
         {
             InitializeComponent();
+            // I HAVE AN HEART ATTACK 1@$!@%#$
         }
     }
 }

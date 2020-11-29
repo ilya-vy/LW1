@@ -19,6 +19,7 @@ namespace ConsoleApplication3
             }
             Console.WriteLine(L);
             Console.ReadKey();
+            // .-.
         }
     }
 }
