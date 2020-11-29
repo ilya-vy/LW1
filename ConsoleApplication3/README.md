@@ -1,8 +1,8 @@
-# DIE ALONE
-## DIE ALONE
-### DIE ALONE
-#### DIE ALONE
-##### DIE ALONE
-###### DIE ALONE
+# OK
+## OK
+### OK
+#### OK
+##### OK
+###### OK
 
 [Powered by](mad idiot)
